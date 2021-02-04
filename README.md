@@ -1,2 +1,2 @@
 # epic-repo
-<img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="384" height="216"/>
+<img src="https://github.com/UltraMarlin/epic-repo/blob/main/based_1st_autoscroller.mp4" width="384" height="216"/>

@@ -1,5 +1,5 @@
 # epic-repo
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/fishmcmuffins/sub1city/blob/main/1A1beg-1.webm" type="video/webm">
+<video width="320" height="240">
+  <source src="https://github.com/UltraMarlin/epic-repo/blob/main/based_1st_autoscroller.mp4" type="video/mp4">
 </video>
